@@ -1,5 +1,7 @@
 # Simple To-Do List Project
 
+This is a simple to-do list project that allows you to add tasks to local storage and also fetch them. You can also mark an item as completed, and it will be updated in local storage.
+
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
 ## Available Scripts
