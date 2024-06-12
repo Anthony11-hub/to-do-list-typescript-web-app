@@ -22,3 +22,24 @@ Your app is ready to be deployed!
 ### Q: What about Eject?
 
 No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+
+### What I learned
+
+I am currently upgrading my stack to use typescript. This is what I learned:
+
+- How to use typescript in a simple project.
+- How to use optional chaining.
+- Using type casting.
+- Using types to provide a blueprint for my objects.
+- Typescript's type inference and setting explicit types.
+- bundling my project using snowpack.
+
+I also switched snowpack's tsconfig file to use my own custom config file by using the command tsc --init.
+
+### useful resources
+
+- [Web dev dimplified](https://youtu.be/jBmrduvKl5w?si=Db5pVervAGHwUGF3) - This simple to-do list project was a tutorial by web dev simplified.
+
+### Author
+
+- Website - [Anthony Mwaura](https://anto-dev-portfolio.vercel.app/)
